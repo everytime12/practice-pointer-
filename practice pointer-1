@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<string.h>
+#include<stdilib.h>
 struct{
     char name[20];
     int age;
