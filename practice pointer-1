@@ -1,1 +1,11 @@
-
+#include<stdo.h>
+struct{
+    char name[20];
+    int age;
+    float salary;
+    char hobby[3][20];
+} employee;
+int main(){
+    employee.age=1;
+    printf("%d",employee.age);
+}
