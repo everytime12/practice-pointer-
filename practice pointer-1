@@ -8,6 +8,6 @@ struct{
 int main(){
     employee.age=1;
     printf("%d",employee.age);
-    strcpy(empolye.name, "Neil Diamond");
+    strcpy(empolyee.name, "Neil Diamond");
     strcpy(employee.hobby[2]," tennis and walking");
 }
